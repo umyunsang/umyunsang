@@ -1,8 +1,6 @@
-### Hi there 👋
-
-나는 젤 높은곳에 가고싶다 <br>
-이것은 그것을 위한 기록이다
-
-
-
+### "Welcome aboard!" 👋
+<hr>
+I aspire to reach the highest peak.<br>
+This is a testament to that journey.
+<hr>
 

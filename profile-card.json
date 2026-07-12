@@ -1,0 +1,46 @@
+{
+  "coloredImage": false,
+  "removeBackground": false,
+  "imageScale": 1,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "Um Yunsang (엄윤상)" },
+        { "key": "Role", "value": "AI/ML & Software Engineering" },
+        { "key": "University", "value": "Dong-A University" },
+        { "key": "Location", "value": "Busan, Korea" },
+        { "key": "Focus", "value": "LLM Agents, K-EXAONE" }
+      ]
+    },
+    {
+      "title": "- Contact & Profiles",
+      "fields": [
+        { "key": "Email", "value": "dbstkd5865@gmail.com" },
+        { "key": "GitHub", "value": "@umyunsang" },
+        { "key": "HuggingFace", "value": "huggingface.co/umyunsang" },
+        { "key": "Instagram", "value": "@um_yun3" },
+        { "key": "W&B", "value": "@umyunsang" }
+      ]
+    },
+    {
+      "title": "- Selected Work",
+      "fields": [
+        { "key": "UMMAYA", "value": "Terminal Civic AI Agent" },
+        { "key": "Quantum ML", "value": "Qiskit, Braket, Quantum Kernels" },
+        { "key": "edu", "value": "CS/AI Knowledge Graph" },
+        { "key": "Bigdata", "value": "Spark, Delta, MLflow" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}

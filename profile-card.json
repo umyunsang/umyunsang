@@ -7,10 +7,20 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "Um Yunsang" },
-        { "key": "Role", "value": "AI/ML & Software Engineering" },
+        { "key": "Role", "value": "AI Systems / ML Engineer" },
         { "key": "University", "value": "Dong-A University" },
         { "key": "Location", "value": "Busan, Korea" },
-        { "key": "Focus", "value": "LLM Agents, Quantum ML" }
+        { "key": "Core", "value": "Agent Systems, LLM Compression" }
+      ]
+    },
+    {
+      "title": "- Work",
+      "fields": [
+        { "key": "UMMAYA", "value": "AI Agent Systems" },
+        { "key": "LG Aimers 8", "value": "AutoRound 4-bit, LB 0.6223" },
+        { "key": "edu", "value": "Graph-linked Knowledge Archive" },
+        { "key": "IlluOps", "value": "Creative Industry AX Foundation" },
+        { "key": "Range", "value": "Quantum ML, Data, Creative Web" }
       ]
     },
     {
@@ -20,16 +30,8 @@
         { "key": "GitHub", "value": "@umyunsang" },
         { "key": "HuggingFace", "value": "huggingface.co/umyunsang" },
         { "key": "Instagram", "value": "@um_yun3" },
-        { "key": "W&B", "value": "@umyunsang" }
-      ]
-    },
-    {
-      "title": "- Selected Work",
-      "fields": [
-        { "key": "UMMAYA", "value": "Terminal Civic AI Agent" },
-        { "key": "Quantum ML", "value": "Qiskit, Braket, Quantum Kernels" },
-        { "key": "edu", "value": "CS/AI Knowledge Graph" },
-        { "key": "Bigdata", "value": "Spark, Delta, MLflow" }
+        { "key": "W&B", "value": "@umyunsang" },
+        { "key": "Creative", "value": "@eom0am" }
       ]
     }
   ],

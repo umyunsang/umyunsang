@@ -27,7 +27,7 @@
       "title": "- Selected Work",
       "fields": [
         { "key": "UMMAYA", "value": "Terminal Civic AI Agent" },
-        { "key": "GovOn", "value": "EXAONE Adapters & Data" },
+        { "key": "Quantum ML", "value": "Qiskit, Braket, Quantum Kernels" },
         { "key": "edu", "value": "CS/AI Knowledge Graph" },
         { "key": "Bigdata", "value": "Spark, Delta, MLflow" }
       ]

@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc4579ad026d50281499a3f1e3291e7f69c0b%2Fprofile-card.json">
-      <img alt="Um Yunsang's neofetch-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc4579ad026d50281499a3f1e3291e7f69c0b%2Fprofile-card.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2F2bc2a0d5775b7f6510799df8e7bff22b458b43c5%2Fprofile-card.json">
+      <img alt="Um Yunsang — AI Systems / ML Engineer profile card with core work and contact links" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2F2bc2a0d5775b7f6510799df8e7bff22b458b43c5%2Fprofile-card.json">
     </picture>
   </a>
 </p>
@@ -30,7 +30,7 @@
 | Project | Direction |
 | --- | --- |
 | [**edu — Knowledge Graph Archive**](https://github.com/umyunsang/edu) | CS·AI 강의, 노트, 코드, 실험을 연결한 지식 그래프형 아카이브입니다. **Roadmap:** LLM이 작업 전에 근거를 탐색하는 LLM-readable reference layer로 고도화합니다. |
-| [**IlluOps Foundation — Creative Industry AX**](https://github.com/umyunsang/IlluOps) | ComfyUI에서 생성형 이미지 모델을 파인튜닝·커스터마이징해 크리에이티브 산업 AX를 검증한 파운데이션 연구입니다. OneTrainer·SDXL LoRA·ControlNet·SAM/SAG·Detailer를 활용했습니다. [Artifacts](https://huggingface.co/umyunsang/comfyui-models) · [Results @eom0am](https://www.instagram.com/eom0am/) |
+| [**IlluOps Foundation — Creative Industry AX**](https://github.com/umyunsang/IlluOps) | ComfyUI에서 생성형 이미지 모델을 파인튜닝·커스터마이징해 크리에이티브 산업에서의 AX 가능성을 탐색한 파운데이션 연구입니다. OneTrainer·SDXL LoRA·ControlNet·SAM/SAG·Detailer를 활용했습니다. [Artifacts](https://huggingface.co/umyunsang/comfyui-models) · [Results @eom0am](https://www.instagram.com/eom0am/) |
 
 > IlluOps Foundation의 스타일 특화 모델과 워크플로는 학술 연구 및 비상업적 포트폴리오 범위입니다.
 

@@ -10,17 +10,17 @@
         { "key": "Role", "value": "AI Systems / ML Engineer" },
         { "key": "University", "value": "Dong-A University" },
         { "key": "Location", "value": "Busan, Korea" },
-        { "key": "Core", "value": "Agent Systems, LLM Compression" }
+        { "key": "Core", "value": "Agent Systems · LLM Compression" }
       ]
     },
     {
       "title": "- Work",
       "fields": [
         { "key": "UMMAYA", "value": "AI Agent Systems" },
-        { "key": "LG Aimers 8", "value": "AutoRound 4-bit, LB 0.6223" },
+        { "key": "LG Aimers 8", "value": "AutoRound 4-bit · LB 0.6223" },
         { "key": "edu", "value": "Graph-linked Knowledge Archive" },
         { "key": "IlluOps", "value": "Creative Industry AX Foundation" },
-        { "key": "Range", "value": "Quantum ML, Data, Creative Web" }
+        { "key": "Range", "value": "Quantum ML · Data · Creative Web" }
       ]
     },
     {

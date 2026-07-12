@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc45%2Fprofile-card.json">
-      <img alt="Um Yunsang's neofetch-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc45%2Fprofile-card.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc4579ad026d50281499a3f1e3291e7f69c0b%2Fprofile-card.json">
+      <img alt="Um Yunsang's neofetch-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc4579ad026d50281499a3f1e3291e7f69c0b%2Fprofile-card.json">
     </picture>
   </a>
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>AI Systems / ML Engineer</strong><br>
-  Agent Systems · LLM Compression · Knowledge Infrastructure
+  Agent Systems · LLM Compression
 </p>
 
 ## Recognition

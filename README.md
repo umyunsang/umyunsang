@@ -7,11 +7,11 @@
   </a>
 </p>
 
-<h1 align="center">Um Yunsang · 엄윤상</h1>
+<h1 align="center">Um Yunsang</h1>
 
 <p align="center">
   <strong>AI/ML & Software Engineering Student</strong><br>
-  LLM Agents · K-EXAONE · Model Adaptation · Public-Service AI
+  LLM Agents · Quantum ML · Model Adaptation · Public-Service AI
 </p>
 
 ## Recognition

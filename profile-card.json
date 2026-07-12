@@ -6,11 +6,11 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "Um Yunsang (엄윤상)" },
+        { "key": "Name", "value": "Um Yunsang" },
         { "key": "Role", "value": "AI/ML & Software Engineering" },
         { "key": "University", "value": "Dong-A University" },
         { "key": "Location", "value": "Busan, Korea" },
-        { "key": "Focus", "value": "LLM Agents, K-EXAONE" }
+        { "key": "Focus", "value": "LLM Agents, Quantum ML" }
       ]
     },
     {

@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fmain%2Fprofile-card.json%3Fv%3D20260712-v2">
-      <img alt="Um Yunsang's neofetch-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fmain%2Fprofile-card.json%3Fv%3D20260712-v2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc45%2Fprofile-card.json">
+      <img alt="Um Yunsang's neofetch-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fa1fcc45%2Fprofile-card.json">
     </picture>
   </a>
 </p>

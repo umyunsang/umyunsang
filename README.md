@@ -18,6 +18,12 @@
 
 🏆 **혁신상** · 2025 제2회 전국대학 소프트웨어 성과 공유 포럼
 
+## Selected Programs
+
+**2026 Global Field Camp: Chiang Mai NET-ZERO Hackathon**<br>
+Selected Participant · Chiang Mai University, Thailand · Aug 9–16, 2026<br>
+International Net-Zero project with students from Dong-A, Inha, and Chiang Mai Universities.
+
 ## Core Work
 
 | Project | Evidence |

@@ -7,20 +7,20 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "Um Yunsang" },
-        { "key": "Role", "value": "AI Systems / ML Engineer" },
+        { "key": "Role", "value": "AI Systems · ML Engineer" },
         { "key": "University", "value": "Dong-A University" },
         { "key": "Location", "value": "Busan, Korea" },
-        { "key": "Core", "value": "Agent Systems · LLM Compression" }
+        { "key": "Core", "value": "Agents · LLM Compression · Interactive Media" }
       ]
     },
     {
       "title": "- Work",
       "fields": [
-        { "key": "UMMAYA", "value": "AI Agent Systems" },
+        { "key": "UMMAYA", "value": "Public-Service AI Agent" },
+        { "key": "Orchestrator", "value": "Claude · GPT Development Plugin" },
         { "key": "LG Aimers 8", "value": "AutoRound 4-bit · LB 0.6223" },
-        { "key": "edu", "value": "Graph-linked Knowledge Archive" },
-        { "key": "IlluOps", "value": "Creative Industry AX Foundation" },
-        { "key": "Range", "value": "Quantum ML · Data · Creative Web" }
+        { "key": "DigitalPublishing", "value": "Three.js · WebGL · Editorial Web" },
+        { "key": "Range", "value": "Knowledge Graph · Quantum ML · Creative AI" }
       ]
     },
     {

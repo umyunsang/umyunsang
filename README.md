@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/jeantimex/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2F2bc2a0d5775b7f6510799df8e7bff22b458b43c5%2Fprofile-card.json">
-      <img alt="Um Yunsang — AI Systems, Machine Learning, and Interactive Media" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2F2bc2a0d5775b7f6510799df8e7bff22b458b43c5%2Fprofile-card.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fmain%2Fprofile-card.json">
+      <img alt="Um Yunsang — AI Systems, Machine Learning, and Interactive Media" src="https://neofetch-profile.vercel.app/api?username=umyunsang&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fumyunsang%2Fumyunsang%2Fmain%2Fprofile-card.json">
     </picture>
   </a>
 </p>

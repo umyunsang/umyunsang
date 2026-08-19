@@ -18,6 +18,7 @@
 
 | Project | Highlight |
 | --- | --- |
+| [**Net-Zero Thailand**](https://github.com/umyunsang/Net-Zero) | 2026 치앙마이 NET-ZERO 해커톤 출품작. 버스·재활용·나무 심기 활동을 검증한 뒤 포인트로 보상하는 MVP입니다. [Live Demo](https://net-zero-reward-demo.umyunsang.workers.dev/) |
 | [**UMMAYA**](https://github.com/umyunsang/UMMAYA) | 한국 공공서비스를 하나의 터미널 경험으로 연결하는 오픈소스 AI 에이전트입니다. 도구 실행과 신원·동의·결제·권한 경계를 함께 다룹니다. [Website](https://ummaya-docs.pages.dev/en/) |
 | [**Claude–GPT Orchestrator**](https://github.com/umyunsang/claude-gpt-orchestrator) | Claude Code와 GPT 계열 모델의 강점을 연결해 복잡한 개발 작업을 나누고 실행하는 플러그인입니다. |
 | [**LG Aimers 8 — LLM Compression**](https://github.com/umyunsang/lg-aimers-8th-llm-compression) | EXAONE-4.0-1.2B를 AutoRound W4G64 4-bit로 압축해 leaderboard `0.6223`을 기록했습니다. |

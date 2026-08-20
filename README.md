@@ -39,6 +39,8 @@
 - 🌏 **Selected Participant** · 2026 Global Field Camp: Chiang Mai NET-ZERO Hackathon
 - 🎯 **본선 진출** · 2026 제11회 부울경 AI 융합 해커톤 ([UMMAYA](https://github.com/umyunsang/UMMAYA))
 - ⚛️ **Participant** · 2026 Quantum Reframing Challenge — NEUTRON ROUTER (팀 부산사립대Goat, 71팀 참가)
+- 📜 **수료** · LG Aimers 8기 (LLM Compression) [Certificate](https://github.com/umyunsang/edu/blob/main/LGAimer/LG%20Aimers%208%EA%B8%B0/LG_Aimers_Certificate.pdf)
+- 📜 **수료** · 양자컴퓨팅 이론 및 실습 2일 단기 특강 · 메가존 클라우드 · 동아대 G-LAMP 연구소 [Certificate](https://github.com/umyunsang/edu/blob/main/certifications/MEGAZONE_Quantum_Computing_Certificate.pdf)
 
 ## Technical Stack
 

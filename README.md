@@ -38,6 +38,7 @@
 - 🏆 **혁신상** · 2025 제2회 전국대학 소프트웨어 성과 공유 포럼
 - 🌏 **Selected Participant** · 2026 Global Field Camp: Chiang Mai NET-ZERO Hackathon
 - 🎯 **본선 진출** · 2026 제11회 부울경 AI 융합 해커톤 ([UMMAYA](https://github.com/umyunsang/UMMAYA))
+- ⚛️ **Participant** · 2026 Quantum Reframing Challenge — NEUTRON ROUTER (팀 부산사립대Goat, 71팀 참가)
 
 ## Technical Stack
 

@@ -35,12 +35,12 @@
 
 ## Recognition & Programs
 
-- 🎓 **수료** · Python으로 시작하는 머신러닝 · AI·ML 개론, Python 기초 실습, 진로·산업체 특강 (58시간, 2024.07.29~08.16) [Certificate](https://github.com/umyunsang/edu/blob/main/ComputerScience/03_ai-ml-data/ml-projects/Python_Machine_Learning_Certificate.pdf)
 - 🥇 **혁신상** · 2025 제2회 전국대학 소프트웨어 성과 공유 포럼
-- 🌏 **Selected Participant** · 2026 Global Field Camp: Chiang Mai NET-ZERO Hackathon [Certificate](https://github.com/umyunsang/edu/blob/main/Hackathon/ChiangMai-NETZERO/ChiangMai_NETZERO_Certificate.pdf)
 - 🏅 **본선 진출** · 2026 제11회 부울경 AI 융합 해커톤 ([UMMAYA](https://github.com/umyunsang/UMMAYA))
+- 🌏 **Selected Participant** · 2026 Global Field Camp: Chiang Mai NET-ZERO Hackathon [Certificate](https://github.com/umyunsang/edu/blob/main/Hackathon/ChiangMai-NETZERO/ChiangMai_NETZERO_Certificate.pdf)
 - 🔬 **Participant** · 2026 Quantum Reframing Challenge — NEUTRON ROUTER (팀 부산사립대Goat, 71팀 참가) [Proposal](https://github.com/umyunsang/edu/blob/main/Hackathon/QRC2026/qrc2026_neutron_router.pdf)
 - 🎓 **수료** · LG Aimers 8기 (LLM Compression) [Certificate](https://github.com/umyunsang/edu/blob/main/LGAimer/LG%20Aimers%208%EA%B8%B0/LG_Aimers_Certificate.pdf)
+- 🎓 **수료** · Python으로 시작하는 머신러닝 · AI·ML 개론, Python 기초 실습, 진로·산업체 특강 (58시간, 2024.07.29~08.16) [Certificate](https://github.com/umyunsang/edu/blob/main/ComputerScience/03_ai-ml-data/ml-projects/Python_Machine_Learning_Certificate.pdf)
 - 🎓 **수료** · 양자컴퓨팅 이론 및 실습 2일 단기 특강 · 메가존 클라우드 · 동아대 G-LAMP 연구소 [Certificate](https://github.com/umyunsang/edu/blob/main/certifications/MEGAZONE_Quantum_Computing_Certificate.pdf)
 
 ## Technical Stack

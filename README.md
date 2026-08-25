@@ -35,6 +35,7 @@
 
 ## Recognition & Programs
 
+- 🎓 **수료** · Python으로 시작하는 머신러닝 · AI·ML 개론, Python 기초 실습, 진로·산업체 특강 (58시간, 2024.07.29~08.16) [Certificate](https://github.com/umyunsang/edu/blob/main/Programs/Python-ML/Python_Machine_Learning_Certificate.pdf)
 - 🥇 **혁신상** · 2025 제2회 전국대학 소프트웨어 성과 공유 포럼
 - 🌏 **Selected Participant** · 2026 Global Field Camp: Chiang Mai NET-ZERO Hackathon [Certificate](https://github.com/umyunsang/edu/blob/main/Hackathon/ChiangMai-NETZERO/ChiangMai_NETZERO_Certificate.pdf)
 - 🏅 **본선 진출** · 2026 제11회 부울경 AI 융합 해커톤 ([UMMAYA](https://github.com/umyunsang/UMMAYA))
